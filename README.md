@@ -6,7 +6,7 @@ Programming Language ===> Python
 
 Program Name ===> The Second Exercise
 
-Example ===> ===> Write A Program That Takes 5 Numbers From The User And Performs The Following Tasks:
+Example ===> Write A Program That Takes 5 Numbers From The User And Performs The Following Tasks:
 
 A: Put All The Numbers In A List
 
